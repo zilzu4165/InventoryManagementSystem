@@ -1,10 +1,1 @@
 INDEX VERSION 1.131+C:\Users\CheonTH\Desktop\git ´Ù¿î¿ë\InventoryManagementSystem\.metadata\.plugins\org.eclipse.jdt.core
-1180069339.index
-3827222892.index
-725093601.index
-3256429449.index
-1218638249.index
-2507657867.index
-4259111831.index
-426232267.index
-2184578956.index
